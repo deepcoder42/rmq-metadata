@@ -1,0 +1,14 @@
+*.pyc
+.coverage
+*.swp
+*.HOLD
+./*.sh
+coverage.xml
+config/*.py
+config/*.cfg
+logs/*.log
+message_dir/*.txt
+tmp/*.pid
+lib
+rabbit_lib
+mongo_lib
